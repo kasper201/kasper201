@@ -1,7 +1,7 @@
 ### Hi I'm Kasper <!-- might add twitter & stuff later on -->
 I'm currently studying computer science in The Netherlands.
 
-If you want to help me with anything please do reach out to me via Email or discord(Flits#3738).
+If you want to help me with anything or just have questions definetely do reach out to me via Email or discord(Flits#3738).
 
 
 <!--
