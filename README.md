@@ -16,7 +16,7 @@ If you have any questions or anything definetely do reach out to me via Email(ka
 
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasper201&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasper201&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kasper201/kasper201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
