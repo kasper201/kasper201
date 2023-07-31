@@ -12,6 +12,7 @@ I currently have experience with programming in C, python, ladder, SCL & STL. I'
 - Stylophone (Hardware)
 
 ### Private
+-Project LA (since 26/07/2023) (private repository)
  
 <!-- ### Still a WIP -->
 
