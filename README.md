@@ -10,6 +10,7 @@ I currently have experience with programming in C, C++, python, ladder, SCL, STL
 - Ledcube (Hardware & Software)
 - Robotrun (Software)
 - Stylophone (Hardware)
+- Weather station (station, database and windows app)
 
 ### Private
 -Project LA (since 26/07/2023) (private repository)
