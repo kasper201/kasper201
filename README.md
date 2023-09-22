@@ -5,7 +5,7 @@ I currently have experience with programming in C, C++, python, ladder, SCL, STL
 
 ## Some projects I've worked on
 ### School
-#### Year 1:
+#### Year 1
 - Simon Says (Hardware & Software)
 - Lift (automation/PLC)
 - Ledcube (Hardware & Software)
