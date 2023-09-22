@@ -5,11 +5,13 @@ I currently have experience with programming in C, C++, python, ladder, SCL, STL
 
 ## Some projects I've worked on
 ### School
+#### Year 1:
 - Simon Says (Hardware & Software)
 - Lift (automation/PLC)
 - Ledcube (Hardware & Software)
 - Robotrun (Software)
 - Stylophone (Hardware)
+#### Year 2
 - Weather station (station, database and windows app)
 
 ### Private
