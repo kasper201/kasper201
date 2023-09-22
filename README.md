@@ -21,7 +21,7 @@ I currently have experience with programming in C, C++, python, ladder, SCL, STL
 
 
 ## Contact
-If you have any questions, tips or anything, do reach out to me via Email(kasperjnssen@gmail.com) or discord(@Flits#3738).
+If you have any questions, tips or anything, do reach out to me via Email(kasperjnssen@gmail.com) or discord(@flits216).
 
 
 ## Stats
