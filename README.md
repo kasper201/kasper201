@@ -1,6 +1,6 @@
 # About me
 My name is Kasper, <!-- might add Twitter & stuff later on -->I'm currently studying computer science in The Netherlands and am in my first year.
-I currently have experience with programming in C, C++, python, ladder, SCL, STL & SQL. I've worked with Siemens SIMATIC S7-1500 PLCs and the microcontrollers: Nucleo-64 STM32F030, Arduino Nano & Arduino Uno.
+I currently have experience with programming in C, C++, python, ladder, SCL, STL & SQL with varying levels of proficiency. I've worked with Siemens SIMATIC S7-1500 PLCs and the microcontrollers: Nucleo-64 STM32F030, Arduino Nano & Arduino Uno.
 
 
 ## Some projects I've worked on
