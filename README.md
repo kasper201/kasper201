@@ -26,6 +26,7 @@ If you have any questions, tips or anything, do reach out to me via Email(kasper
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasper201&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+These are based of my public repositories :)
 <!--
 **kasper201/kasper201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
