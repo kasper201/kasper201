@@ -1,9 +1,8 @@
-# About me
-My name is Kasper, <!-- might add Twitter & stuff later on -->I'm currently studying computer science in The Netherlands and am in my first year.
-I currently have experience with programming in C, C++, python, ladder, SCL, STL & SQL with varying levels of proficiency. I've worked with Siemens SIMATIC S7-1500 PLCs and the microcontrollers: Nucleo-64 STM32F030, Arduino Nano & Arduino Uno.
+# **About me**
+My name is Kasper, I am from The Netherlands and am currently studying computer science in 's-Hertogenbosch, The Netherlands. I currently am in my second year.
 
 
-## Some projects I've worked on
+## Projects I've worked on
 ### School
 #### Year 1
 - Simon Says (Hardware & Software)
@@ -18,10 +17,44 @@ I currently have experience with programming in C, C++, python, ladder, SCL, STL
 - Project LA (since 26/07/2023) (private repository)
  
 <!-- ### Still a WIP -->
+## **Skills**
+I'm in IT for 2 years. During these 2 years I had experience with:
+###Languages
+- C
+- C++
+- SQL
+- MySQL
+- Python
+- SCL
+- STL
+- SQL
+- Ladder
+- Assembly (stm32 Nucleo_f0 series)
+- PHP
+- HTML5
+- Javascript
+- Typescript
 
+### IDEs
+- Visual Studio Code
+- Visual Studio 2017/2022
+- Code::Blocks
+- Qt
+- Eclipse
+- System Workbench for STM32
 
+### PLCs
+- Siemens SIMATIC S7-1500
+
+### Embeded systems
+- Arduino
+- STM32 nucleo_f0 series
+  
+### RTOS's
+- Zephyr
+  
 ## Contact
-If you have any questions, tips or anything, do reach out to me via Email(kasperjnssen@gmail.com) or discord(@flits216).
+You can reach me by Email(kasperjnssen@gmail.com) or discord(@flits216).
 
 
 ## Stats
