@@ -20,26 +20,28 @@ My name is Kasper, I am from The Netherlands and am currently studying computer 
 ## **Skills**
 I'm in IT for 2 years. During these 2 years I had experience with:
 ###Languages
+(ranked on expertise)
 - C
 - C++
-- SQL
 - MySQL
-- Python
-- SCL
-- STL
-- SQL
-- Ladder
-- Assembly (stm32 Nucleo_f0 series)
+- SQL 
 - PHP
 - HTML5
 - Javascript
 - Typescript
+- CSS
+- Assembly (stm32 Nucleo_f0 series)
+- SCL
+- STL
+- Ladder
+- Python
+- C#
 
 ### IDEs
 - Visual Studio Code
 - Visual Studio 2017/2022
-- Code::Blocks
 - Qt
+- Code::Blocks
 - Eclipse
 - System Workbench for STM32
 
