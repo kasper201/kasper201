@@ -35,7 +35,6 @@ I'm in IT for 2 years. During these 2 years I had experience with:
 - STL
 - Ladder
 - Python
-- C#
 
 ### IDEs
 - Visual Studio Code
