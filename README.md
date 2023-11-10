@@ -19,7 +19,7 @@ My name is Kasper, I am from The Netherlands and am currently studying computer 
 <!-- ### Still a WIP -->
 ## **Skills**
 I'm in IT for 2 years. During these 2 years I had experience with:
-###Languages
+### Languages
 (ranked on expertise)
 - C
 - C++
