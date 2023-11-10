@@ -45,7 +45,7 @@ I'm in IT for 2 years. During these 2 years I had experience with:
 ### PLCs
 - Siemens SIMATIC S7-1500
 
-### Embeded systems
+### Microcontrollers
 - Arduino
 - STM32 nucleo_f0 series
   
