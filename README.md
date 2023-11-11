@@ -11,7 +11,8 @@ My name is Kasper, I am from The Netherlands and am currently studying computer 
 - Robotrun (Software)
 - Stylophone (Hardware)
 #### Year 2
-- Weather station (station, database and windows app)
+- Weather station (station, database, php server and windows app)
+- Domotics
 
 ### Private
 - Project LA (since 26/07/2023) (private repository)
