@@ -12,7 +12,7 @@ My name is Kasper, I am from The Netherlands and am currently studying computer 
 - Stylophone (Hardware)
 #### Year 2
 - Weather station (station, database, php server and windows app)
-- Domotics
+- Domotics (bluetooth mesh networks)
 
 ### Private
 - Project LA (since 26/07/2023) (private repository)
