@@ -49,6 +49,8 @@ I'm in IT for 2 years. During these 2 years I had experience with:
 ### Microcontrollers
 - Arduino
 - STM32 nucleo_f0 series
+- nRF52833DK
+- nRF52840{dongle}
   
 ### RTOS's
 - Zephyr
