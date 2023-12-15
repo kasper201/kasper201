@@ -35,8 +35,8 @@ I'm in IT for 2 years. During these 2 years I had experience with:
 - Python
 
 ### IDEs
-- Visual Studio Code
 - CLion
+- Visual Studio Code
 - Visual Studio 2017/2022
 - Qt Creator
 - Code::Blocks
