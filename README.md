@@ -21,13 +21,15 @@ My name is Kasper, I am from The Netherlands and am currently studying computer 
 ## **Skills**
 I'm in IT for 2 years. During these 2 years I had experience with:
 ### Languages
-(ranked on expertise)
 - C
 - C++
 - MySQL
 - SQL 
 - PHP
 - HTML5
+- CSS
+- JS
+- TS
 - Assembly (stm32 Nucleo_f0 series)
 - SCL
 - STL
