@@ -58,7 +58,7 @@ I'm in IT for 2 years. During these 2 years I had experience with:
 - Zephyr
   
 ## Contact
-You can reach me by Email.
+You can reach me by Email(kasperjnssen@gmail.com for general and k.janssen9@student.avans.nl for school related).
 
 
 ## Stats
