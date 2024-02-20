@@ -45,9 +45,6 @@ I'm in IT for 2 years. During these 2 years I had experience with:
 - Eclipse
 - System Workbench for STM32
 
-### PLCs
-- Siemens SIMATIC S7-1500
-
 ### Microcontrollers
 - Arduino
 - STM32 nucleo_f0 series
