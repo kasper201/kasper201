@@ -15,6 +15,7 @@ My name is Kasper, I am from The Netherlands and am currently studying computer 
 - Domotics (bluetooth mesh networks)
 
 ### Private
+- BSTS overlay
 - Project LA (since 26/07/2023) (private repository)
  
 <!-- ### Still a WIP -->
