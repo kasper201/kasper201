@@ -30,7 +30,6 @@ I'm in IT for 2 years. During these 2 years I had experience with:
 - HTML5
 - CSS
 - JS
-- TS
 - Assembly (stm32 Nucleo_f0 series)
 - SCL
 - STL
@@ -39,6 +38,7 @@ I'm in IT for 2 years. During these 2 years I had experience with:
 
 ### IDEs
 - CLion
+- PHPStorm
 - Visual Studio Code
 - Visual Studio 2017/2022
 - Qt Creator
@@ -56,7 +56,7 @@ I'm in IT for 2 years. During these 2 years I had experience with:
 - Zephyr
   
 ## Contact
-You can reach me by Email(kasperjnssen@gmail.com for general and k.janssen9@student.avans.nl for school related).
+You can reach me by Email(kasperjnssen@gmail.com for general and k.janssen9@student.avans.nl for school-related).
 
 
 ## Stats
