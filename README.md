@@ -13,6 +13,8 @@ My name is Kasper, I am from The Netherlands and am currently studying computer 
 #### Year 2
 - Weather station (station, database, php server and windows app)
 - Domotics (bluetooth mesh networks)
+- F1 Database (web interface, mySQL database, api handler)
+- RetroGame (FPGA as GPU, map logic)
 
 ### Private
 - BSTS overlay
