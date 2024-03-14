@@ -32,6 +32,7 @@ I'm in IT for 2 years. During these 2 years I had experience with:
 - HTML5
 - CSS
 - JS
+- VHDL
 - Assembly (stm32 Nucleo_f0 series)
 - SCL
 - STL
