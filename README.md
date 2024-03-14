@@ -48,11 +48,12 @@ I'm in IT for 2 years. During these 2 years I had experience with:
 - Eclipse
 - System Workbench for STM32
 
-### Microcontrollers
+### Microcontrollers & FPGAs
 - Arduino
 - STM32 nucleo_f0 series
 - nRF52833DK
 - nRF52840{dongle}
+- Basys3
   
 ### RTOS's
 - Zephyr
