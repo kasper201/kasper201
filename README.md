@@ -62,6 +62,8 @@ I'm in IT for 2 years. During these 2 years I had experience with:
 ## Contact
 You can reach me by Email(kasperjnssen@gmail.com for general and k.janssen9@student.avans.nl for school-related).
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasper201&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasper201&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
