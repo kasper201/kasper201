@@ -15,9 +15,10 @@ My name is Kasper, I am from The Netherlands and am currently studying computer 
 - Domotics (bluetooth mesh networks)
 - F1 Database (web interface, mySQL database, api handler)
 - RetroGame (FPGA as GPU, map logic)
+- Autopilot using 'computer vision'
 
 ### Private
-- BSTS overlay
+- BSTS, BSEUC & YABT overlay
 - Project LA (since 26/07/2023) (private repository)
  
 <!-- ### Still a WIP -->
