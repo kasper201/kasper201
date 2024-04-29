@@ -16,6 +16,7 @@ My name is Kasper, I am from The Netherlands and am currently studying computer 
 - F1 Database (web interface, mySQL database, api handler)
 - RetroGame (FPGA as GPU, map logic)
 - Autopilot using 'computer vision'
+- Webshop
 
 ### Private
 - BSTS, BSEUC & YABT overlay
@@ -27,28 +28,19 @@ I'm in IT for 2 years. During these 2 years I had experience with:
 ### Languages
 - C
 - C++
-- MySQL
-- SQL 
+- VHDL
 - PHP
 - HTML5
 - CSS
 - JS
-- VHDL
+- MySQL
+- SQL 
+- micropython
 - Assembly (stm32 Nucleo_f0 series)
 - SCL
 - STL
 - Ladder
 - Python
-
-### IDEs
-- CLion
-- PHPStorm
-- Visual Studio Code
-- Visual Studio 2017/2022
-- Qt Creator
-- Code::Blocks
-- Eclipse
-- System Workbench for STM32
 
 ### Microcontrollers & FPGAs
 - Arduino
