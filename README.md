@@ -19,35 +19,24 @@ My name is Kasper, I am from The Netherlands and am currently studying computer 
 - Webshop
 
 ### Private
-- BSTS, BSEUC & YABT overlay
+- BSTS, BSEUC & YABT overlays
 - Project LA (since 26/07/2023) (private repository)
  
 <!-- ### Still a WIP -->
 ## **Skills**
-I'm in IT for 2 years. During these 2 years I had experience with:
+I have been in IT for 2 years. During these 2 years I had experience with:
 ### Languages
-- C
 - C++
-- VHDL
+- C
 - PHP
 - HTML5
 - CSS
 - JS
 - MySQL
+- VHDL
 - SQL 
 - micropython
-- Assembly (stm32 Nucleo_f0 series)
-- SCL
-- STL
-- Ladder
 - Python
-
-### Microcontrollers & FPGAs
-- Arduino
-- STM32 nucleo_f0 series
-- nRF52833DK
-- nRF52840{dongle}
-- Basys3
   
 ### RTOS's
 - Zephyr
