@@ -1,6 +1,5 @@
 # **About me**
-My name is Kasper, I am from The Netherlands and am currently studying computer science in 's-Hertogenbosch, The Netherlands. I currently am in my second year.
-
+My name is Kasper, I am from The Netherlands and am currently studying computer science in 's-Hertogenbosch, The Netherlands.
 
 ## Projects I've worked on
 ### School
