@@ -26,7 +26,7 @@ My name is Kasper, I am from The Netherlands and am currently studying computer 
  
 <!-- ### Still a WIP -->
 ## **Skills**
-I have been in IT for 2 years. During these 2 years I had experience with:
+I have been in Computer Science for 2+ years. During these 2 years I had experience with:
 ### Languages/libraries
 - C++
 - C
@@ -34,11 +34,13 @@ I have been in IT for 2 years. During these 2 years I had experience with:
 - HTML5
 - CSS
 - JS
+- TS
+- React
 - MySQL
-- VHDL
 - micropython
 - Python
-- React
+- VHDL
+- Assembly
   
 ### RTOS's
 - Zephyr
