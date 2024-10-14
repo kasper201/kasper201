@@ -21,7 +21,7 @@ My name is Kasper, I am from The Netherlands and am currently studying computer 
 - Internship
 
 ### Private
-- BSTS, BSEUC & YABT overlays
+- BSTS, BSEUC, BeatKhana! & YABT overlays
 - Project LA (since 26/07/2023) (private repository)
  
 <!-- ### Still a WIP -->
