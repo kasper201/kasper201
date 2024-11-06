@@ -18,16 +18,16 @@ My name is Kasper, I am from The Netherlands and am currently studying computer 
 - Webshop
 
 ### Year 3
-- Internship
+- Internship at IOLAN B.V.
 
 ### Private
-- BSTS, BSEUC, BeatKhana! & YABT overlays
-- Project LA (since 26/07/2023) (private repository)
+- BSTS, [BSEUC](https://bseuc.eu/), [BeatKhana!](https://beatkhana.com/) & YABT stream overlays
+- Project LA (since 26/07/2023) (private repository and on hold)
  
 <!-- ### Still a WIP -->
 ## **Skills**
-I have been in Computer Science for 2+ years. During these 2 years I had experience with:
-### Languages/libraries
+I have been in Computer Science for 2+ years. During these years I had experience with:
+### Languages etc.
 - C++
 - C
 - PHP
@@ -46,7 +46,7 @@ I have been in Computer Science for 2+ years. During these 2 years I had experie
 - Zephyr
   
 ## Contact
-You can reach me by Email(kasperjnssen@gmail.com for general and k.janssen9@student.avans.nl for school-related).
+You can reach me by Email(kasperjnssen@gmail.com).
 
 <!--## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasper201&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
