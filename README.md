@@ -1,14 +1,14 @@
 # **About me**
 My name is Kasper, I am from The Netherlands and am currently studying computer science in 's-Hertogenbosch, The Netherlands.
 
-## Projects I've worked on
+## Some of my projects
+### Private
+- BSTS, [BSEUC](https://bseuc.eu/), [BeatKhana!](https://beatkhana.com/) & YABT stream overlays
+- Project LA (since 26/07/2023) (private repository and on hold)
+
 ### School
-#### Year 1
-- Simon Says (Hardware & Software)
-- Lift (automation/PLC)
-- Ledcube (Hardware & Software)
-- Robotrun (Software)
-- Stylophone (Hardware)
+### Year 3
+- Internship at IOLAN B.V.
 #### Year 2
 - Weather station (station, database, php server and windows app)
 - Domotics (bluetooth mesh networks)
@@ -16,18 +16,17 @@ My name is Kasper, I am from The Netherlands and am currently studying computer 
 - RetroGame (FPGA as GPU, map logic)
 - Autopilot using 'computer vision'
 - Webshop
-
-### Year 3
-- Internship at IOLAN B.V.
-
-### Private
-- BSTS, [BSEUC](https://bseuc.eu/), [BeatKhana!](https://beatkhana.com/) & YABT stream overlays
-- Project LA (since 26/07/2023) (private repository and on hold)
+#### Year 1
+- Simon Says (Hardware & Software)
+- Lift (automation/PLC)
+- Ledcube (Hardware & Software)
+- Robotrun (Software)
+- Stylophone (Hardware)
  
 <!-- ### Still a WIP -->
 ## **Skills**
 I have been in Computer Science for 2+ years. During these years I had experience with:
-### Languages etc.
+### Languages and Tools
 - C++
 - C
 - PHP
