@@ -1,5 +1,6 @@
 # **About me**
 My name is Kasper, I am from The Netherlands and am currently studying computer science in 's-Hertogenbosch, The Netherlands.
+In my free time I like to do code a bit. I love embedded but also do some webdev. This way I've helped on BeatSaber European Championships, BeatKhana and more!
 
 ## Some of my projects
 ### Private
