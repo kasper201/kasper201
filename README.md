@@ -4,12 +4,16 @@ In my free time I like to do code a bit. I love embedded but also do some webdev
 
 ## Some of my projects
 ### Private
-- BSTS, [BSEUC](https://bseuc.eu/), [BeatKhana!](https://beatkhana.com/) & YABT stream overlays
+- BSTS, [BSEUC](https://bseuc.eu/), [BeatKhana!](https://beatkhana.com/), BSE & YABT stream overlays
+- OpenOverlayTA
 - Project LA (since 26/07/2023) (private repository and on hold)
 
 ### School
 ### Year 3
 - Internship at IOLAN B.V.
+- GPS Location Based Game(s)
+- Android App
+- Linux Kernel
 #### Year 2
 - Weather station (station, database, php server and windows app)
 - Domotics (bluetooth mesh networks)
@@ -30,15 +34,17 @@ I have been in Computer Science for 2+ years. During these years I had experienc
 ### Languages and Tools
 - C++
 - C
+- Java
 - PHP
 - HTML5
 - CSS
+- XML
 - JS
 - TS
 - React
 - MySQL
-- micropython
-- Python
+- Svelte
+- (micro)Python
 - VHDL
 - Assembly
   
