@@ -9,6 +9,9 @@ In my free time I like to do code a bit. I love embedded but also do some webdev
 - Project LA (since 26/07/2023) (private repository and on hold)
 
 ### School
+
+### Year 4
+- [TBD]
 ### Year 3
 - Internship at IOLAN B.V.
 - GPS Location Based Game(s)
@@ -35,15 +38,14 @@ I have been in Computer Science for 2+ years. During these years I had experienc
 - C++
 - C
 - Java
+- TS/JS
+- Svelte
 - PHP
 - HTML5
 - CSS
 - XML
-- JS
-- TS
 - React
 - MySQL
-- Svelte
 - (micro)Python
 - VHDL
 - Assembly
