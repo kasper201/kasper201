@@ -1,35 +1,20 @@
 # **About me**
 My name is Kasper, I am from The Netherlands and am currently studying computer science in 's-Hertogenbosch, The Netherlands.
-In my free time I like to do code a bit. I love embedded but also do some webdev. This way I've helped on BeatSaber European Championships, BeatKhana and more!
+In my free time I like to do code a bit ig and love embedded but also do some webdev. This way I became Lead Dev at BSTS and helped on BeatSaber European Championships, BeatKhana and more!
 
-## Some of my projects
+## Some noteable projects I have worked on
 ### Private
-- BSTS, [BSEUC](https://bseuc.eu/), [BeatKhana!](https://beatkhana.com/), BSE & YABT stream overlays
+- [BSTS](https://beatsabertourneys.com/), [BSEUC](https://bseuc.eu/), [BeatKhana!](https://beatkhana.com/), BSE & YABT stream overlays
 - OpenOverlayTA
 - Project LA (since 26/07/2023) (private repository and on hold)
 
 ### School
-
-### Year 4
-- [TBD]
-### Year 3
-- Internship at IOLAN B.V.
-- GPS Location Based Game(s)
-- Android App
-- Linux Kernel
-#### Year 2
-- Weather station (station, database, php server and windows app)
-- Domotics (bluetooth mesh networks)
-- F1 Database (web interface, mySQL database, api handler)
-- RetroGame (FPGA as GPU, map logic)
-- Autopilot using 'computer vision'
-- Webshop
-#### Year 1
-- Simon Says (Hardware & Software)
-- Lift (automation/PLC)
-- Ledcube (Hardware & Software)
-- Robotrun (Software)
-- Stylophone (Hardware)
+- UWB and GPS Location tracking and games
+- Multiple Android Applications
+- A Bluetooth mesh network
+- Several Zephyr based IoT Devices
+- RetroGame including making and using using an FPGA as a GPU
+- Autopilot using computer vision including sign recognition
  
 <!-- ### Still a WIP -->
 ## **Skills**
@@ -40,9 +25,6 @@ I have been in Computer Science for 2+ years. During these years I had experienc
 - Java
 - TS/JS
 - Svelte
-- PHP
-- HTML5
-- CSS
 - XML
 - React
 - MySQL
