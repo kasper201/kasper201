@@ -2,7 +2,7 @@
 My name is Kasper, I am from The Netherlands and am currently studying computer science in 's-Hertogenbosch, The Netherlands.
 In my free time I like to do code a bit ig and love embedded but also do some webdev. This way I became Lead Dev at BSTS and helped on BeatSaber European Championships, BeatKhana and more!
 
-## Some noteable projects I have worked on
+## Some notable projects I have worked on
 ### Private
 - [BSTS](https://beatsabertourneys.com/), [BSEUC](https://bseuc.eu/), [BeatKhana!](https://beatkhana.com/), BSE & YABT stream overlays
 - OpenOverlayTA
